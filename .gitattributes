@@ -1,5 +1,0 @@
-# Mark JavaScript as vendored (not counted in language stats)
-fcs-client-lib.js linguist-vendored
-
-# Force PHP detection for example files
-examples/*.php linguist-language=PHP
