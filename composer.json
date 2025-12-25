@@ -1,5 +1,6 @@
 {
-    "name": "fcsapi/websocket-php",
+    "name": "fcsapi/websocket",
+    "version": "4.0.0",
     "description": "Real-time WebSocket client library for Forex, Cryptocurrency, and Stock market data from FCS API",
     "type": "library",
     "license": "MIT",
@@ -32,11 +33,6 @@
     },
     "require": {
         "php": ">=7.4"
-    },
-    "autoload": {
-        "psr-4": {
-            "FcsApi\\": "src/"
-        }
     },
     "minimum-stability": "stable"
 }

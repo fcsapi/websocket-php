@@ -6,7 +6,7 @@ This library provides PHP integration with WebSocket for live market data stream
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PHP Version](https://img.shields.io/badge/PHP-%3E%3D7.4-blue.svg)](https://php.net)
-[![Packagist](https://img.shields.io/packagist/v/fcsapi/websocket-php.svg)](https://packagist.org/packages/fcsapi/websocket-php)
+[![Packagist](https://img.shields.io/packagist/v/fcsapi/websocket.svg)](https://packagist.org/packages/fcsapi/websocket)
 
 ## Features
 
@@ -23,9 +23,9 @@ Use demo API key for testing: `fcs_socket_demo`
 
 ## Installation
 
-### Composer
+### Composer (Recommended)
 ```bash
-composer require fcsapi/websocket-php
+composer require fcsapi/websocket
 ```
 
 ### Manual Installation
