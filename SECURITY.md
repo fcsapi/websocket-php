@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-We take security seriously at FCS API. If you discover a security vulnerability, please report it responsibly.
+We take security seriously at FCS API. If you discover a security vulnerability, please report it responsibly. update check
 
 ### How to Report
 
